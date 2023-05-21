@@ -1,7 +1,7 @@
 {
   "name": "parse-html-table",
   "type": "module",
-  "version": "0.0.0",
+  "version": "1.0.2",
   "packageManager": "pnpm@8.1.1",
   "description": "A lightweight library for parsing HTML tables into structured data using TypeScript.",
   "author": "Chris Michael <chrisperezsantiago1@gmail.com>",
